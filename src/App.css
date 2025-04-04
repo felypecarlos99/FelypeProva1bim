@@ -25,16 +25,10 @@
 }
 
 .texto1{
-  font-family: "Bebas Neue", sans-serif;
-  font-weight: 400;
-  font-style: normal;
   font-size: 40px;
 }
 
 .texto2{
-  font-family: "Bebas Neue", sans-serif;
-  font-weight: 400;
-  font-style: normal;
   font-size: 20px;
 }
 
@@ -79,10 +73,10 @@ font-size: 18px;
 }
 
 .imagemcard{
-width: 130px;
+width: 200px;
 height: 150px;
-  margin-top: 50px;
-  margin-bottom: 42px;
+margin-top: 30px;
+margin-bottom: 11px;
 }
 
 

@@ -25,28 +25,28 @@ function App() {
  <div className="retangulo2">
                <div className="cards">
             <img className="imagemcard"
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIp07ecHgkf_8FvZDoHqFW_ZLJN0U1Nqbu2A&s"
+                src="https://acdn-us.mitiendanube.com/stores/002/322/390/products/chuteira-phantom-gx-campo1-f4af38a123ef3f678a17164922163085-1024-1024.png"
                 alt="Neymar 2022"/>
 <div className="partebaixocards">
- <p className="textodocard">Neymar 2022</p>
+ <p className="textodocard">Phantom GX</p>
 </div>
 </div>
 
 <div className="cards">
               <img className="imagemcard"
-               src="https://www.polemicaparaiba.com.br/wp-content/uploads/2016/12/figurinhas-panini-copa-07neymarjpeg.jpg"
+               src="https://tfdfjz.vtexassets.com/arquivos/ids/336779/chuteira-campo-nike-masculina-vapor-16-fq8441-400-azul-fq8441-400-6-.jpg?v=638636844561100000"
                alt="Neymar 2014"/>
 <div className="partebaixocards">
-<p className="textodocard">Neymar 2014</p>
+<p className="textodocard">Vapor 16</p>
 </div>
 </div>
 
 <div className="cards">
                  <img className="imagemcard"
-                 src="https://ludopedio.org.br/wp-content/uploads/Neymar-Album-Copa-2018-Divulga%C3%A7%C3%A3o.jpg"
+                 src="https://acdn-us.mitiendanube.com/stores/002/322/390/products/chuteira-air-zoom-mercurial-vapor-pro-society-011-88b2a848e567d1675016657243210283-1024-1024.jpeg"
                 alt="Neymar 2018"/>
 <div className="partebaixocards">
-<p className="textodocard">Neymar 2018</p>
+<p className="textodocard">Air Zomm Mercurial</p>
 </div>
 </div>
 </div>
