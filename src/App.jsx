@@ -11,15 +11,15 @@ function App() {
         
     <div className='body'>
         <div className="retangulo1">
+          <header className="header">
+            <img className="imagemheader" src='https://th.bing.com/th/id/OIP.a8SVLn_GcB5nQ9gQ2LdgaAHaHa?rs=1&pid=ImgDetMain'></img>
+            <p className='textoheader'>LOJA CHUTEIRAS</p>
+          </header>
             <div>
                 <img className="img"
-                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkvfhCu1f2GEDGNFuwNWCiStZcfNdLAX93w&s"
+                 src="https://shoxstore.com.br/rev-img/banner_principal_2025.webp"
                 alt="Neymar"/>
        </div>
-       <div className="textos">
-       <p className="texto1">NEYMAR JR</p>
-       <p className="texto2">Atleta</p>
-</div>
 </div>
 
  <div className="retangulo2">
