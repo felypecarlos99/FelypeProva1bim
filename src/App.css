@@ -21,12 +21,14 @@
 .textoheader{
     font-family: "Special Gothic Condensed One", sans-serif;
     font-style: normal;
+    margin: 0;
 }
 
 .imagemheader{
   width: 70px;
   height: auto;
-  border-radius: 10px;
+  border-radius: 5px;
+  margin-top: 5px;
 }
 
 .imagembanner{
@@ -86,8 +88,7 @@ margin-bottom: 11px;
   justify-content: space-between;
   align-items: center;
   background-color: #f4f4f4;
-  position: fixed;
-  bottom: 0;
+  bottom: 0;  
   width: 100%;
   left: 0;
 
