@@ -89,7 +89,7 @@ function App() {
 </div>
 
 <footer className="footer">
-      <p className='footer-text1'>© 2025 Meu Site de Produtos</p>
+      <p className='footer-text1'>© 2025 chuteirasfc.com.br</p>
       <p className='footer-right'>Contato: lojachuteiras@gmail.com</p>
       <img className='footer-img' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiIpbfJaa1oLjJquE5qUHgGQcS8SD_7Zb8qg&s'></img>
     </footer>
