@@ -1,12 +1,14 @@
 import React from 'react';
 
-function Card({ imagem, texto }) {
-    return (
-      <div className="cards">
-        <img className="imagemcard" src={imagem} alt={texto} />
-        <div className="partebaixocards">
-          <p className="textodocard">{texto}</p>
-        </div>
-      </div>
-    );
-  }
+
+const Card = ({ imagem, titulo }) => {
+            return (
+              <div className="cards">
+                <img className="imagemcard" src={imagem} alt={titulo} />
+                <div className="partebaixocards">
+                  <p className="textodocard">{titulo}</p>
+                </div>
+              </div>
+            );
+          };
+          export default Card
